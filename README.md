@@ -1,5 +1,3 @@
-Un README bien hecho es crucial para cualquier proyecto. Sirve como la carta de presentación de tu código, explicando qué es, cómo usarlo y quién lo hizo. Aquí tienes una plantilla completa para el README del proyecto "Amigo Secreto", incluyendo secciones clave para que sea fácil de entender y usar.
-
 Amigo Secreto
 ¡Bienvenido al proyecto "Amigo Secreto"! Esta es una sencilla aplicación web para organizar un sorteo de amigo secreto de forma aleatoria.
 
